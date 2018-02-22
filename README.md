@@ -1,5 +1,7 @@
 # SurveyjsAngularCli
 
+I cloned this from the SurveyJS repo, and credit should always go to the surveyJS project - it's a wonderful program, please use their repo.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0 and modified to use SurveyJS and Editor libraries.
 
 You can just clone this repo and run "ng serve" command.
